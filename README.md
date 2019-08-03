@@ -1,4 +1,4 @@
-AJAX template reading Rest API
+# AJAX template reading Rest API
 
 This is template in AJAX for basic CRUD operations reading a Rest API based on a CODEOFANINJA (codeofaninja.com) tutorial.
 
