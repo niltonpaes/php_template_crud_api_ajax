@@ -1,6 +1,6 @@
 # AJAX template reading Rest API
 
-This is a template in AJAX (100% Javascript) for basic CRUD operations reading a Rest API, based on a CODEOFANINJA (codeofaninja.com) tutorial.
+This is a template in AJAX (100% Javascript) for basic CRUD operations reading a Rest API (https://github.com/niltonpaes/php_template_crud_api), based on a CODEOFANINJA (codeofaninja.com) tutorial.
 
 ## Some hightlights:
 
@@ -8,3 +8,6 @@ This is a template in AJAX (100% Javascript) for basic CRUD operations reading a
 * Use of Bootstrap for the layout
 * Pagination
 * jQuery to manipulate DOM, Arrays, JSON, Ajax
+
+## Live application
+https://niltonpaes.website/php_templates/php_template_crud_api_ajax/
