@@ -1,6 +1,6 @@
 # AJAX template reading Rest API
 
-This is template in AJAX for basic CRUD operations reading a Rest API based on a CODEOFANINJA (codeofaninja.com) tutorial.
+This is a template in AJAX (100% Javascript) for basic CRUD operations reading a Rest API, based on a CODEOFANINJA (codeofaninja.com) tutorial.
 
 ## Some hightlights:
 
