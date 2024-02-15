@@ -1,5 +1,5 @@
 // set the api url
-var localHost = "http://localhost:8080/php_templates/php_template_crud_api/";
+var localHost = "https://phptemplates.swtas.com/php_template_crud_api/";
 
 $(document).ready(function(){
  
