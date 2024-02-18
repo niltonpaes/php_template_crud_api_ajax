@@ -1,13 +1,13 @@
 # AJAX template reading Rest API (JavaScript, Ajax, Json)
 
-This is an AJAX template (HTML/Javascript/jQuery) for basic CRUD operations via Rest API (https://phptemplates.swtas.com/php_template_crud_api).
+This is an AJAX template (HTML/Javascript/jQuery) for basic CRUD operations via Rest API calls. (https://phptemplates.swtas.com/php_template_crud_api).
 
 ## Highlights:
 
-* Connects to a Rest API
+* Rest API calls
 * Bootstrap
 * Pagination
-* Uses jQuery to manipulate DOM, Arrays, JSON, Ajax calls
+* jQuery to manipulate DOM, Arrays, JSON, Ajax calls
 
 ## Live application
 https://phptemplates.swtas.com/php_template_crud_api_ajax/
